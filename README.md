@@ -33,7 +33,7 @@
           ===============================================
           
                To Upadte The User we can use put and patch method but here 
-               i have Use put method . so To Update The user send put method 
+               i have Use put method . so To Update The user send put Request 
                with all Updated Data.
                - To Upate The user send put request to /user/id
                
