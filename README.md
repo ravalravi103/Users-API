@@ -2,7 +2,7 @@
 
 
      ======================================
-          User API Using NodeJs(Expressj
+          User API Using NodeJs(ExpresJs)
      =========================================
      
        This is User API Project Created with Nodejs and MongoDB. Used Nodejs Framework Expressjs and MongoDB OMR mongoose Library .
